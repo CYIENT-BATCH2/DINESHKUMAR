@@ -1,4 +1,10 @@
 // Online C compiler to run C program online
+/*
+1.read data
+2.prints its ascii by its type specifier
+
+*/
+
 #include <stdio.h>
 
 int main() {
