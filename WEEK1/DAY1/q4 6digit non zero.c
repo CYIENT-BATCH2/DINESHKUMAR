@@ -1,4 +1,13 @@
-// Online C compiler to run C program online
+/*
+steps:
+1.read n
+2.check whether it is 6 digit or not 
+3.extrating each digit from no... and check if it contain 0 in those digits
+4.if not reverse that no .. by reverse logic 
+5.print if non zero digit involved in given no...
+
+
+*/
 #include <stdio.h>
 
 int main() {
