@@ -1,4 +1,8 @@
 // Online C compiler to run C program online
+/*
+1. checking all year with %4 %100 %400
+2.and counting and printing .
+*/
 #include <stdio.h>
 
 int main() {
