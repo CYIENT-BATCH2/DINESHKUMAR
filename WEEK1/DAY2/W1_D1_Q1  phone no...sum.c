@@ -1,4 +1,8 @@
 // Online C compiler to run C program online
+/*
+1.READ n VALUES
+2.extract each digit and sum all those digits and print.
+*/
 #include <stdio.h>
 
 int main() {
