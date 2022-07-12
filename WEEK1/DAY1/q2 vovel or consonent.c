@@ -4,6 +4,9 @@ steps:
 2.check whether the data is alphbet or not 
 3.if that charecter is vowel or consonant.
 4.print with checking with that.
+*/
+
+
 #include <stdio.h>
 
 int main() {
