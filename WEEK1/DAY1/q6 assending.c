@@ -1,4 +1,12 @@
 // Online C compiler to run C program online
+/*
+steps:
+1.read 5 integer values
+2.checking every two varibles  whether which is grater .
+3.swapping two no... if grater.
+4.after proper assending it print .
+
+*/
 #include <stdio.h>
 
 int main() {
