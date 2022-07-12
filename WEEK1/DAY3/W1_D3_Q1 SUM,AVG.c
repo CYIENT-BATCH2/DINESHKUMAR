@@ -5,6 +5,9 @@
 2.calculate sum of int and float variables
 3.avg =sum/ no.of elements.
 4.mean=avg/2 .
+5.isum/fsum
+6.iavg/favg
+7.print float varibles in %d format
 */
 
 #include <stdio.h>
