@@ -1,6 +1,10 @@
-// Online C compiler to run C program online
-#include <stdio.h>
+/*
+1.read radious 
+2.apply formula pi * r* r
+3.print after calculation.
+*/
 
+#include <stdio.h>
 int main() {
 char c;
 unsigned int r;
