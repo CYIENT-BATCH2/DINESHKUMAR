@@ -1,4 +1,10 @@
-// Online C compiler to run C program online
+/*
+steps:
+1.read n.
+2.checking even or odd by data%2==0
+3.printing it belongs to.
+
+*/
 #include <stdio.h>
 
 int main() {
