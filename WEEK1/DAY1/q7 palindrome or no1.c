@@ -1,4 +1,11 @@
 // Online C compiler to run C program online
+/*
+steps:
+1.read no..
+2.reversing data 
+3.comparing reverse data and given data
+
+*/
 #include <stdio.h>
 
 int main() {
