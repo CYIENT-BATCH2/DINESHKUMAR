@@ -1,3 +1,9 @@
+/*
+1.read n1 and n2 
+2.check given range 
+3.check whether digit contain 3 or nor if exist print that no...
+4.other wise increment value
+*/
 #include <stdio.h>
 int main()
 {
