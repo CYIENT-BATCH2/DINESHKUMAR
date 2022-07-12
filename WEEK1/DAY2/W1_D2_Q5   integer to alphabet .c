@@ -1,4 +1,11 @@
 // Online C compiler to run C program online
+/*
+1.read n
+2.convert int to alphabet by adding 64 to it 
+3.checking each 2digit no.. at a time 
+4.reverse the data and print alphabets
+
+*/
 #include <stdio.h>
 
 int main() {
