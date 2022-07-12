@@ -6,6 +6,9 @@ steps:
 4.if n2 is greater than both n1 and n3, n2 is the largest.
 5.if n3 is greater than both n1 and n2, n3 is the largest
 6.prints which is grater.
+*/
+
+
 #include <stdio.h>
 
 int main() {
