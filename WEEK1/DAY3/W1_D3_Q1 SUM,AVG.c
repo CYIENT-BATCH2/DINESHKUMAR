@@ -9,12 +9,12 @@ scanf("%d%d%d%d%d%d%d%d%f%f%f%f%f%f%f",&i1,&i2,&i3,&i4,&i5,&i6,&i7,&i8,&f1,&f2,&
     
     isum=i1+i2+i3+i4+i5+i6+i7+i8;
     iavg=isum/8;
-    imean=iavg;
+    imean=(iavg/2);
 printf("sum =%d mean=%d average =%d",isum,imean,iavg);
 
 fsum=(f1+f2+f3+f4+f5+f6+f7);
-favg=fsum/8;
-fmean=favg;
+favg=fsum/7;
+fmean=(favg/2);
 printf("sum =%f mean=%f average =%f",fsum,fmean,favg);
 }
      
