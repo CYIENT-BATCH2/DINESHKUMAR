@@ -1,4 +1,9 @@
 // Online C compiler to run C program online
+/*
+1.read a and b 
+2.perform (OR) operater (AND) operater XOR 
+
+*/
 #include <stdio.h>
 
 int main() {
