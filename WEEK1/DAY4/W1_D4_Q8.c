@@ -1,4 +1,8 @@
-(H)CONDITIONAL OPERATOR 
+/*(H)CONDITIONAL OPERATOR 
+ALGORITHM:
+steps 
+1.apply the expression as question given .
+*/
 1)#include <stdio.h>
 int main() {
     int n,n1;
