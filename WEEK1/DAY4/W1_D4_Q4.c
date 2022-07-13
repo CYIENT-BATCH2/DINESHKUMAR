@@ -1,4 +1,9 @@
+/*
 (D)BITWISE OPERATOR
+ALGORITHM:
+steps 
+1.apply the expression as question given .
+*/
 #include <stdio.h>
 int main() {
       // int i=10,j=20,m=5,k;
