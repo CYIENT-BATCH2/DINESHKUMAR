@@ -1,4 +1,9 @@
+/*
 (G)ASSIGNMENT OPERATOR
+ALGORITHM:
+steps 
+1.apply the expression as question given .
+*/
 1)#include <stdio.h>
 int main() {
    int i,j,k=0;
