@@ -1,4 +1,10 @@
-(A)ARITHMATICAL OPERATOR
+/*  
+ALGORITHM:
+arthematic operation 
+steps 
+1.apply the expression as question given .
+*/
+
 #include <stdio.h>
 int main() {
     int x=30,y=20,z=10,k;
