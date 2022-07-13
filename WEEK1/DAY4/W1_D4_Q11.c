@@ -1,4 +1,10 @@
-(K) SIZEOF OPERATOR 
+
+/*  
+ALGORITHM:
+ SIZEOF OPERATOR 
+steps 
+1.apply the expression as question given .
+*/
 #include <stdio.h>
 int main() {
   int i;
