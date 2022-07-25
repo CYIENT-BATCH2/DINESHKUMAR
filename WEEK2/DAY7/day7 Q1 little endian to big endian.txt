@@ -1,4 +1,10 @@
 // Online C compiler to run C program online
+/*
+LITTLE ENDEN TO BIG ENDEN ALGORITHM
+
+*/
+STEP 1:
+checking whether the system fallows little or big endian
 #include <stdio.h>
 
 int main() {
