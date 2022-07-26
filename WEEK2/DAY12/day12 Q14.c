@@ -1,4 +1,9 @@
 // Online C compiler to run C program online
+/*
+1.take three sorted arrays.
+2.all the three arrays will be initialised at compile time only.
+3.find out all the common values in three sorted arrays and print it.
+*/
 #include <stdio.h>
 int main() {
     // Write C code here
