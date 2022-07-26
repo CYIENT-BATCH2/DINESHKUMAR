@@ -1,4 +1,9 @@
 // Online C compiler to run C program online
+/*
+1.read an array with compile time initialisation.
+2.sort the array elements using pointers.
+3.after completion of sorting with the last element print the entire array. 
+*/
 #include <stdio.h>
 int main() {
     int a[5]={25,45,89,15,82},temp;
