@@ -1,4 +1,9 @@
 // Online C compiler to run C program online
+/*
+1.take the variable named as SSPAT.
+2.clear the  bit positions of 4,5,7.
+3.clear the bit positions of 1,2 and 8.
+*/
 #include <stdio.h>
 
 int main() {
