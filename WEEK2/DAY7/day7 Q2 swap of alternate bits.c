@@ -1,4 +1,10 @@
 // Online C compiler to run C program online
+/*
+1.read a number from the user.
+2.print binary equivalent.
+3.swap the even and odd bit position values
+4.print the binary equivalent after swapping.
+*/
 #include <stdio.h>
 
 int main() {
