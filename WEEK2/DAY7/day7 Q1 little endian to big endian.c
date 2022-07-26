@@ -1,7 +1,8 @@
 // Online C compiler to run C program online
 /*
 LITTLE ENDEN TO BIG ENDEN ALGORITHM
-
+2.if it is littile endian convert it to big endian.
+3.after conversion,print the value.
 */
 STEP 1:
 checking whether the system fallows little or big endian
