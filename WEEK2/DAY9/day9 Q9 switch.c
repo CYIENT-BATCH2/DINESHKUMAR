@@ -1,4 +1,11 @@
 // Online C compiler to run C program online
+/*
+ALGORITHM:
+1.take an array named as G_Msg_switchstatus_Byte
+2.calculate all the elements.
+3.take a function and pass the array to the function.
+4.print all the element values using function.
+*/
 #include <stdio.h>
 void fun(unsigned char G_Msg_switchstatus_Byte[],int n);
 int main() {
