@@ -1,4 +1,9 @@
 // Online C compiler to run C program online
+/*
+1.take an array of strings.
+2.find out the empty strings.
+3.wherever empty string is find,c0py the word as CYIENT at that place. 
+*/
 #include <stdio.h>
 #include<string.h>
 int main() {
