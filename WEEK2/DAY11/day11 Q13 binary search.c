@@ -1,4 +1,12 @@
 // Online C compiler to run C program online
+/*
+ALGORITHM:
+1.take an array with compile time initialisation.
+2.read a number from the user 
+3. serach the element based on the root value
+4.if serching number is grater than root search from index-0 to root elemnt.
+5.if searching number is less tahn the root element search from root to the last element of the array.
+*/
 #include <stdio.h>
 
 int main() {
