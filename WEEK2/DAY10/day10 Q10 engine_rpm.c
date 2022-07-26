@@ -1,4 +1,10 @@
 // Online C compiler to run C program online
+/*
+1.take an array named as arr with size of 5 elements
+2.calculate all the elements.
+3.take a function and pass the rray to the function 
+4.print all the values of the array using function.
+*/
 #include <stdio.h>
 void fun(unsigned char arr[],int n);
 int main() {
