@@ -1,4 +1,10 @@
 // Online C compiler to run C program online
+/*
+1.take an array with compile time initialisation.
+2.take a function and pass the array as argument to the function.
+3.sort the elements of the array element buy element
+4.after sorting print all the elements of the array.
+*/
 #include <stdio.h>
 void selectionsort(int arr[],int);
 static int i=0;
