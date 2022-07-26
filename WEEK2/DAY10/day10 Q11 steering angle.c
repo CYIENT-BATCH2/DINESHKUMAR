@@ -1,4 +1,11 @@
 // Online C compiler to run C program online
+/*
+ALGORITHM:
+1.take an array named as G_Msg_SteeringInformation_Byte with size of 3 elements.
+2.calculate the all element's values by using given conditions.
+3.take a function and pass the array to the function.
+4.print all the values using function.
+*/
 #include <stdio.h>
 void fun(unsigned char G_Msg_SteeringInformation_Byte[],int n);
 int main() {
